@@ -36,3 +36,4 @@ Finally, clone the repository to your local machine using the following command 
 git clone https://github.com/bouncmpe230/individual-assignment-<username>
 
 ```
+If you encounter an authentication error, follow [GitHub Authentication Guide](auth.md) to connect with ssh. 
